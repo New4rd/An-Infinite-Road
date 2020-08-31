@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C802ADA9-14AD-2CCB-8F67-B9A5F9307C4A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScreenFader.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ColorRythmic.cs" Line="35" Column="6" IsPinned="True" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" Line="21" Column="59" />
+      <File FileName="Assets/Scripts/MoveWithPlayer.cs" Line="13" Column="76" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="89" Column="29" />
+      <File FileName="Assets/Scripts/TerrainGenerator.cs" Line="94" Column="66" />
+      <File FileName="Assets/Scripts/DecorationGenerator.cs" Line="104" Column="14" />
+      <File FileName="Assets/Scripts/DecorManager.cs" Line="21" Column="57" />
+      <File FileName="Assets/Scripts/WheelRotation.cs" Line="12" Column="9" />
+      <File FileName="Assets/Scripts/CarsMovement.cs" Line="10" Column="143" />
+      <File FileName="Assets/Scripts/OtherCarsManager.cs" Line="26" Column="113" />
+      <File FileName="Assets/Scripts/TextsManager.cs" Line="30" Column="27" />
+      <File FileName="Assets/Scripts/FillSignText.cs" Line="10" Column="112" />
+      <File FileName="Assets/Scripts/ButtonInteraction.cs" Line="17" Column="32" />
+      <File FileName="Assets/Scripts/ScenesManager.cs" Line="41" Column="31" />
+      <File FileName="Assets/Scripts/MusicManager.cs" Line="13" Column="32" />
+      <File FileName="Assets/Resources/Text Files/signTexts.txt" Line="21" Column="25" />
+      <File FileName="Assets/Scripts/ScreenFader.cs" Line="37" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="02b3b4df-2618-450d-8408-937f2dd224fa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/maxime/Desktop/Unity_Projects/Road to the Synthwave/Assets/BeatDetector/AudioProcessor.cs" relfile="Assets/BeatDetector/AudioProcessor.cs" line="142" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
